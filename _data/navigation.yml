@@ -7,18 +7,15 @@ main:
     url: /about/
 
   - title: "Explorer"
-    url: https://explorer.ellaism.org
-
-  - title: "Web Wallet"
-    url: https://ellaism.github.io/ellawallet
+    url: http://www.presstab.pw/phpexplorer/HYP/chain.php
 
   - title: "Network Stats"
-    url: https://stats.ellaism.org/
+    url: http://www.presstab.pw/phpexplorer/HYP/index.php 
 
   - title: "Exchange"
     url: /exchange/
 
-  - title: "Mining"
+  - title: "Staking"
     url: /mining/
 
 
