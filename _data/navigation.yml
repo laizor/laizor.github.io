@@ -1,0 +1,56 @@
+# main links links
+main:
+  - title: "Get Started"
+    url: /install/
+
+  - title: "About"
+    url: /about/
+
+  - title: "Explorer"
+    url: https://explorer.ellaism.org
+
+  - title: "Web Wallet"
+    url: https://ellaism.github.io/ellawallet
+
+  - title: "Network Stats"
+    url: https://stats.ellaism.org/
+
+  - title: "Exchange"
+    url: /exchange/
+
+  - title: "Mining"
+    url: /mining/
+
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Installation"
+        url: /install/
+      - title: "Mining"
+        url: /mining/
+      - title: "Exchange"
+        url: /exchange/
+
+  - title: Community
+    children:
+      - title: "Roadmap"
+        url: /roadmap/
+      - title: "Donate"
+        url: /donate/
+      - title: "Principles"
+        url: /principles/
+      - title: "Dapps"
+        url: /dapps/
+
+  - title: Meta
+    children:
+      - title: "Github"
+        url: https://github.com/ellaism
+      - title: "Discord"
+        url: https://discord.gg/66Pn9jn
+      - title: "Comparison"
+        url: /comparison/
+      - title: "About"
+        url: /about/
