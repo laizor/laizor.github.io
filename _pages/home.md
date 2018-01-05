@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: hyperstake-top-bg.png
+  overlay_image: mm-hyperstake-top-bg.png
   ctas:
     - cta_label: "<i class='fa fa-building'></i> Learn More"
       cta_url: "/install/"
