@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "HyperStake"
 title_separator          : "-"
-name                     : &name "HyperStake"
+name                     : &name "A big 2018"
 description              : &description "HyperStake is an advanced blockchain platform leveraging staking to reach consensus."
 url                      : https://laizor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
