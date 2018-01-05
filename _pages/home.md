@@ -12,7 +12,7 @@ header:
     - cta_label: "<i class='fa fa-gear'></i> Roadmap"
       cta_url: "/roadmap/"
   caption:
-excerpt: 'HyperStake is an advanced blockchain platform that provides generous rewards to users for securing the blockchain without the need for complicated mining equipment. HyperStake has focused on being the leading Proof of Stake digital currency. <br />'
+excerpt: 'HyperStake is an advanced blockchain platform that provides generous rewards to users for securing the blockchain without the need for complicated mining equipment. <br />'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "Path 1"
@@ -33,7 +33,7 @@ feature_row:
     url: "/donate/"
     btn_label: "Learn More"
 intro:
-  - excerpt: 'Follow the Ellaism community [<i class="fa fa-twitter"></i> @EllaismCoin](https://twitter.com/HyperStake){: .btn .btn--twitter} [Discord](https://discord.gg/dqVrxNV){: .btn .btn--google-plus}'
+  - excerpt: 'Follow the HyperStake community [<i class="fa fa-twitter"></i> @HyperStake](https://twitter.com/HyperStake){: .btn .btn--twitter} [Discord](https://discord.gg/dqVrxNV){: .btn .btn--google-plus}'
 monthly-update:
   - excerpt: "Monthly Community Update - December 2017 [Read Now](/2017/12/30/monthly-update-dec-2017/){: .btn}"
 ---
