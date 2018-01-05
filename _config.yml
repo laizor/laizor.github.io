@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ellaism"
+title                    : "HyperStake"
 title_separator          : "-"
-name                     : &name "Ellaism"
-description              : &description "An Ethereum-like network with no premine and no contentious hard forks."
-url                      : https://ellaism.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "HyperStake"
+description              : &description "HyperStake is an advanced blockchain platform leveraging staking to reach consensus."
+url                      : https://laizor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ellaism/ellaism.org"
 avatarurl                : "https://www.gravatar.com/avatar/98abb59df18a837592a8079e31fd9c47"
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "EllaismCoin"
+  username               : &twitter "HyperStake"
 facebook:
   username               :
   app_id                 :
@@ -68,7 +68,7 @@ social:
   type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/EllaismCoin"
+    - "https://twitter.com/HyperStake"
 
 # Analytics
 analytics:
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "ellaism"
+  github           : "hyperstake"
   google_plus      :
   keybase          :
   instagram        :
